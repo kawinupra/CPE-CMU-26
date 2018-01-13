@@ -5,7 +5,7 @@
 
 int main()
 {
-  std::cout << "Fork this repository, make the fix by filling your information and submit a pull request";
+  std::cout << "Kawin Upra \n600610718\nSECTION:002\n19\nPrograming skill: 3\nGRADE:A\nI LOVE YOU";
   return 0;
 }
 ```
